@@ -26,9 +26,6 @@ $ aoj init
 
 # contest.go install
 $ go get github.com/yaegashi/contest.go/cmd/contest-cli
-
-# change directory
-$ cd courses
 ```
 
 ### 解答用のディレクトリ、テンプレート、テストケースを作成
