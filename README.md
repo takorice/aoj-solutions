@@ -35,3 +35,8 @@ $ cd courses
 # run tool
 $ python ../util/new-solution.py [PROBLEM-ID]
 ```
+
+### テスト実行
+```bash
+$ go test -v ./[PROBLEM-ID]
+```
